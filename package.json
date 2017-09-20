@@ -1,0 +1,26 @@
+{
+  "name": "screepsmod-affinity-rancher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "standard",
+    "2npm": "publish"
+  },
+  "devDependencies": {
+    "publish": "^0.6.0",
+    "standard": "^10.0.3"
+  },
+  "screeps_mod": true,
+  "keywords": [
+    "screeps",
+    "mod"
+  ],
+  "author": "Adam Shumann",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.82.0",
+    "request-promise": "^4.2.1"
+  }
+}
