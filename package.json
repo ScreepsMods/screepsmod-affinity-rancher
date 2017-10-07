@@ -21,7 +21,9 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.0",
+    "crc-32": "^1.1.1",
     "request": "^2.82.0",
-    "request-promise": "^4.2.1"
+    "request-promise": "^4.2.1",
+    "semver": "^5.4.1"
   }
 }
